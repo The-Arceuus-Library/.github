@@ -1,5 +1,3 @@
-# .github
-
 # The Arceuus Library
 
 Books of arcane knowledge on the markets, mechanics, and history of Old School RuneScape.
